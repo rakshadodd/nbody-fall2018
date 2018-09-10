@@ -89,9 +89,5 @@ public class Body {
 		StdDraw.picture(myXPos, myYPos, "images/"+myFileName);
 	}
 	
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
 
 }
